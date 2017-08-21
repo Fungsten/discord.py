@@ -24,6 +24,7 @@ DEALINGS IN THE SOFTWARE.
 """
 
 import copy
+#look at me
 from . import utils
 from .permissions import Permissions, PermissionOverwrite
 from .enums import ChannelType
